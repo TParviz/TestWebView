@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650371276167",
+    "firebase_url": "https://fir-deeplinks-aabc6.firebaseio.com",
+    "project_id": "fir-deeplinks-aabc6",
+    "storage_bucket": "fir-deeplinks-aabc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650371276167:android:3dba65bea51bb9166f8722",
+        "android_client_info": {
+          "package_name": "ru.main.testwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650371276167-ivqdms84cv0tsqf01rm8dk5irbgo0674.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvMTuKhXjBxYGR_9enEha_H9SCx_pLI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650371276167-ivqdms84cv0tsqf01rm8dk5irbgo0674.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
